@@ -52,7 +52,7 @@
           href="http://router.vuejs.org/"
           target="_blank"
         >
-          vue-router
+          vue-index
         </a>
       </li>
       <li>
