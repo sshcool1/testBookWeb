@@ -14,7 +14,7 @@
     "vue": "^2.5.2",
     "vue-router": "latest",
     "vee-validate": "^2.2.13",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "vue-toasted": "^1.1.27"
   },
   "devDependencies": {
